@@ -13,7 +13,7 @@ open intent class
 Get Obtain the pre-trained BERT model and convert it to Pytorch, then specify the path of the uncased-bert model as the "bert_model" parameter in the init_parameter.py file.
 
 # Run Instructions
-Run using script files present in script folder.
+Run using script files present in scripts folder.
 
 *default values mentioned in experimental settings are hardcoded, can be changed according to requirement.
 
