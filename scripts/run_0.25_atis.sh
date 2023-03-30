@@ -16,7 +16,7 @@ do
         --labeled_ratio 1.0 \
         --seed $s \
         --freeze_bert_parameters \
-        --beta 0.5 \
+        --beta 0.3 \
         --gamma 0.6 \
         --lr_boundary 2e-5
 done
