@@ -15,7 +15,7 @@ Get Obtain the pre-trained BERT model and convert it to Pytorch, then specify th
 # Run Instructions
 Run using script files present in script folder.
 
-*default values for mentioned in experimental settings are hardcoded, can be changed according to requirement.
+*default values mentioned in experimental settings are hardcoded, can be changed according to requirement.
 
 
 
